@@ -1,5 +1,5 @@
 # Sons de Bateria
-Criei esse projeto sons de bateria. Quando clicar nas teclas indicadas cada som aparecerão. Feito HTML,CSS,JAVASCRITP.
+Criei esse projeto sons de bateria. Quando clicar nas teclas indicadas cada som aparecerão. Feito HTML, CSS, JAVASCRIPT.
 
 <h4>Tecnologias usadas:</h4>
 
